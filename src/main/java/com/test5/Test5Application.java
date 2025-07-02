@@ -11,7 +11,12 @@ public class Test5Application {
 		int a = 13;
 		char b = 'a';
 		String c = "anuj";
+                
+                char i = 'c';
                 boolean isPresent = true;
+
+		
+>>>>>>> 51fc92dc0610ae737a84e5353ac90cbd91a89920
 		SpringApplication.run(Test5Application.class, args);
 	}
 
