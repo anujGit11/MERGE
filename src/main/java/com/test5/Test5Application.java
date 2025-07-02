@@ -15,7 +15,7 @@ public class Test5Application {
                 
                 char i = 'c';
                 boolean isPresent = true;
-                boolean isPre = false;
+                String d = "anujd";
 		
 >>>>>>> 51fc92dc0610ae737a84e5353ac90cbd91a89920
 		SpringApplication.run(Test5Application.class, args);
